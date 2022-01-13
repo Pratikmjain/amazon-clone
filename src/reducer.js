@@ -52,3 +52,6 @@ const reducer = (state, action) => {
 
 export default reducer;
 
+
+// for merging perpose created of me
+
