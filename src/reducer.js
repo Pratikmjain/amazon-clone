@@ -53,5 +53,9 @@ const reducer = (state, action) => {
 export default reducer;
 
 
+<<<<<<< HEAD
 // for merging perpose created of me
+=======
+// testing the pull request for me
+>>>>>>> 3cc50b5f57a7766acf3cbc8511dae3b26c17998e
 
